@@ -7,8 +7,6 @@ If you want to convert:
 
 You can use this tool.
 
-This tool will let you know how much you can get in a period of time.
-
 Note: What you need to know:
 
   *  Time frame.
